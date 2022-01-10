@@ -91,11 +91,6 @@ link = "plugins/search/mark.js"
 link = "plugins/search/search.js"
 
 
-baseURL = "https://weekinmemes.com"
-
-[params]
-author = "DK"
-logo = "img/logo.jpg"
 header = "Week In Memes"
 
 facebook = "weekinmemes"
