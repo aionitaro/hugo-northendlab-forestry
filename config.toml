@@ -89,3 +89,16 @@ link = "plugins/search/fuse.min.js"
 link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
+
+
+baseURL = "https://weekinmemes.com"
+
+[params]
+author = "DK"
+logo = "img/logo.jpg"
+header = "Week In Memes"
+
+facebook = "weekinmemes"
+twitter = "weekinmemes"
+instagram = "weekinmemes"
+github = "weekinmemes"
