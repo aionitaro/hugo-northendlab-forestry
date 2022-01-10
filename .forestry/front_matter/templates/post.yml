@@ -8,6 +8,11 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: cod_voucher
+  type: text
+  config:
+    required: false
+  label: Cod Voucher
 - type: file
   name: image
   label: image
