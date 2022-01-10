@@ -12,7 +12,7 @@ fields:
   type: text
   config:
     required: false
-  label: Cod Voucher
+  label: cod_voucher
 - type: file
   name: image
   label: image
@@ -29,5 +29,14 @@ fields:
   name: type
   label: type
   default: post
+- name: valabilitate_voucher
+  type: datetime
+  label: Valabilitate_voucher
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 pages:
 - content/voucher-elefant.ro.md
