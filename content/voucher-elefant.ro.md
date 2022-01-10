@@ -1,7 +1,7 @@
 +++
 author = "Andrei Ionita"
 categories = ["Vouchere Parfumuri", "Vouchere Carti", "Vouchere Reducere"]
-cod_voucher = ""
+cod_voucher = "BOOKS50"
 date = 2022-01-09T22:00:00Z
 description = "Voucher Elefant.ro"
 image = "/images/post/post-1.jpg"
