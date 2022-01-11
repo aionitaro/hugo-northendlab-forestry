@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Hugo Northendlab Forestry starter"
-theme = "github.com/aionitaro/mallerro"
+theme = "github.com/aionitaro/theme"
 paginate = "5"
 summaryLength = "10"
 disqusShortname = "" # get your shortname form here : https://disqus.com
