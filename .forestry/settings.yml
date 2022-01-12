@@ -12,6 +12,13 @@ sections:
   templates:
   - post
 - type: directory
+  path: vouchers
+  label: Vouchers
+  create: documents
+  match: "*.md"
+  templates:
+  - post  
+- type: directory
   path: data
   label: Data
   create: documents
