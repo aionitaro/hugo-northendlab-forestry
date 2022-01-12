@@ -17,7 +17,7 @@ sections:
   create: documents
   match: "*.md"
   templates:
-  - post  
+  - post
 - type: directory
   path: data
   label: Data
